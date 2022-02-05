@@ -1,0 +1,39 @@
+button {
+    
+    margin: auto ;
+    align-items: center;
+    height: 60px;
+    width: 60px;
+    
+    border-radius: 50%;
+    display: table;
+    
+  }
+ 
+
+.semaforo {
+    padding-top: 10px;
+    background: black;
+    margin: auto ;
+    height: 200px;
+    width: 90px;
+    
+    
+}
+.stick{
+    background: black;
+    margin: auto ;
+    height: 80px;
+    width: 35px;
+    
+   
+}
+.brillored{
+    box-shadow: 0 0 20px rgb(253, 2, 2);
+}
+.brilloyellow{
+    box-shadow: 0 0 20px rgb(228, 253, 2);
+}
+.brillogreen{
+    box-shadow: 0 0 20px rgb(23, 253, 2);
+}
